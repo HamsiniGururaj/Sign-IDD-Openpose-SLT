@@ -1,6 +1,6 @@
 # Sign-IDD-Openpose-SLT
-This codebase is an implementation of the backtranslator used in Sign-IDD with the same structure  
-https://github.com/Rathna-1989/sign-IDD
+This codebase is an implementation of the backtranslator used in Sign-IDD with the same structure 
+https://github.com/HamsiniGururaj/Sign-IDD-Openpose
 
 ## Requirements
 - ipdb
